@@ -8,7 +8,7 @@ const port = 3000; // localhost:3000
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
-  res.end('8 days and counting til the World freakin parties cause the orange idiot will be gone!');
+  res.end('1 day til donald is out of the office!');
 });
 
 server.listen(port, hostname, () => {

@@ -4,7 +4,8 @@
   "description": "whategver",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hello from Node!\""
+    "test": "echo \"Hello from Node!\"",
+    "start": "nodemon app"
   },
   "repository": {
     "type": "git",
