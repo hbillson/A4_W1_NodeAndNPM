@@ -1,0 +1,33 @@
+{
+  "name": "a4_w1_nodeandnpm",
+  "version": "1.0.0",
+  "description": "whategver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello from Node!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbillson/A4_W1_NodeAndNPM.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "git"
+  ],
+  "author": "HB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbillson/A4_W1_NodeAndNPM/issues"
+  },
+  "homepage": "https://github.com/hbillson/A4_W1_NodeAndNPM#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "mysql": "^2.18.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
